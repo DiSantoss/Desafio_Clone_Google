@@ -10,3 +10,5 @@ Além disso, o JavaScript será usado para implementar as funcionalidades básic
 Este projeto é adequado para aqueles que estão aprendendo HTML, CSS e JavaScript e procuram um desafio simples e direto para praticar suas habilidades. Além disso, é uma ótima oportunidade para aprender sobre como as páginas da web são construídas e como as três tecnologias se integram para criar uma experiência de usuário completa.
 
 ![image](https://user-images.githubusercontent.com/99044745/218616390-1d9d6c6f-ac44-44a9-9638-f09612317598.png)
+![image](https://user-images.githubusercontent.com/99044745/218616795-8d9a417a-ee96-4b9d-bc6d-e6ef2c462cd1.png)
+
